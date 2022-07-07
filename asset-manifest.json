@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/otaku/static/css/main.d1815764.css",
-    "main.js": "/otaku/static/js/main.d517e126.js",
+    "main.css": "/otaku/static/css/main.7d401973.css",
+    "main.js": "/otaku/static/js/main.3876395d.js",
     "static/media/Rengoku_main.png": "/otaku/static/media/Rengoku_main.a4724a870c1c3592b1b1.png",
     "static/media/Kakasi_main.png": "/otaku/static/media/Kakasi_main.c249cae424a5a786ebb0.png",
     "static/media/Levi_main.jpg": "/otaku/static/media/Levi_main.6b57938cbe3498b520b3.jpg",
@@ -10,11 +10,11 @@
     "static/media/Eren_main.jpg": "/otaku/static/media/Eren_main.fbd1c796838d3980451f.jpg",
     "static/media/Sinobu_main.jpg": "/otaku/static/media/Sinobu_main.4b5dd39970d93e5e9b87.jpg",
     "index.html": "/otaku/index.html",
-    "main.d1815764.css.map": "/otaku/static/css/main.d1815764.css.map",
-    "main.d517e126.js.map": "/otaku/static/js/main.d517e126.js.map"
+    "main.7d401973.css.map": "/otaku/static/css/main.7d401973.css.map",
+    "main.3876395d.js.map": "/otaku/static/js/main.3876395d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1815764.css",
-    "static/js/main.d517e126.js"
+    "static/css/main.7d401973.css",
+    "static/js/main.3876395d.js"
   ]
 }
